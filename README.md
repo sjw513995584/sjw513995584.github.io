@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Landing Page Jekyll theme
 
-You can use the [editor on GitHub](https://github.com/sjw513995584/sjw513995584.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How to use
+ - Place a image in `/img/services/`
+ - Create posts to display your services. Use the follow as an example:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```txt
+---
+layout: default
+img: ipad.png
+category: Services
+title: The service title
+---
+The description of this service
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Demo
+View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
 
-### Jekyll Themes
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sjw513995584/sjw513995584.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+===
 
-### Support or Contact
+For more Jekyll details, read [documentation](http://jekyllrb.com/).
+This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## License
+The contents of this repository are licensed under the [Apache
+2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+## Version
+1.0.1
