@@ -5,4 +5,4 @@ category: Services
 title: Death to the Stock Photo:<br>Special Thanks
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  markdown真的很6啊。我也不知道说什么，下面的东西我也不想改。总算把基本的东西都搭建好了，剩下的就比较简单了哈哈哈哈。好吧，其实一点技术含量都没有。
