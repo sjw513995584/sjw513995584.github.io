@@ -2,9 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: 关于markdown,一款比word逼格高的写笔记软件
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  markdown真的很6啊。我也不知道说什么，下面的东西我也不想改。总算把基本的东西都搭建好了，剩下的就比较简单了哈哈哈哈。好吧，其实一点技术含量都没有。
